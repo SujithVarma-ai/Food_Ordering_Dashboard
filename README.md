@@ -11,6 +11,10 @@ This project is an interactive Excel dashboard built to analyze customer food or
 * Pivot Charts
 * Slicers
 
+## Screenshot
+
+![Dashboard]()
+
 ## Key Insights
 
 * Mumbai has the highest order volume
