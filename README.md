@@ -13,7 +13,7 @@ This project is an interactive Excel dashboard built to analyze customer food or
 
 ## Screenshot
 
-![Dashboard]()
+![Dashboard](https://github.com/SujithVarma-ai/Food_Ordering_Dashboard/blob/main/Screenshot%202026-03-29%20220256.png)
 
 ## Key Insights
 
